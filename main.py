@@ -23,7 +23,7 @@ START_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        
+        InlineKeyboardButton('👥Dõstlarga ulashish👥', url='https://t.me/share/url?url=http://t.me/CalculatorProRobot')
         ]]
     )
 CALCULATE_TEXT = "Tugmalardan foydalaning👨‍💻"
