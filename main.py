@@ -23,7 +23,7 @@ START_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('gjssbsgsue', url='https://telegram.me/FayasNoushad')
+        
         ]]
     )
 CALCULATE_TEXT = "Tugmalardan foydalaning👨‍💻"
